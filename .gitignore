@@ -1,0 +1,15 @@
+# ignore all files starting with . or ~
+.*
+~*
+
+# OS generated files
+ehthumbs.db
+Thumbs.db
+
+# IDE
+*.sublime-project
+*.sublime-workspace
+
+# Track these files, if they exist
+!.gitignore
+!.editorconfig
